@@ -3,7 +3,7 @@
 
 Servo myservo;
 
-int trg_pin = 9;
+int trg_pin = 8;
 int ech_pin = 10;
 
 
